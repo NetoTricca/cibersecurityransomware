@@ -1,0 +1,1 @@
+Esse arquivo texto é um exemplo para testar a criptografia e descriptografia de um projeto de Ransomware.
